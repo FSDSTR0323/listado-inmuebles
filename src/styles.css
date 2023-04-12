@@ -1,0 +1,17 @@
+div.box-ok {
+    border: 2px solid green;
+    color: green;
+}
+
+div.box-ko {
+    border: 2px solid red;
+    color: red;
+}
+
+div.card {
+    display:flex;
+    flex-direction:row;
+}
+div.card p.description {
+    color: grey;
+}
